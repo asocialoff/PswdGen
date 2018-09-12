@@ -1,0 +1,7 @@
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\bin\Debug\TestClass.exe.config
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\bin\Debug\TestClass.exe
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\bin\Debug\TestClass.pdb
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\obj\Debug\TestClass.csprojAssemblyReference.cache
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\obj\Debug\TestClass.csproj.CoreCompileInputs.cache
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\obj\Debug\TestClass.exe
+C:\Users\Théo\source\repos\PswdGenerator\TestClass\obj\Debug\TestClass.pdb
