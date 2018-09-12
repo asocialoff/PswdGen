@@ -1,5 +1,5 @@
 # PswdGen
-This is a simple password generator. Free for personnel use only.
+This is a simple password generator. Free for personnal and commercial use.
 
 Under an Apache license.
 
